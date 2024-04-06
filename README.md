@@ -77,7 +77,7 @@
 
 
 ![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce/master/screenshots2/adminlogin.png)
-![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce/master/screenshots2/admin1.png)
+![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce/master/screenshots2/admin99.png)
 ![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce/master/screenshots2/admin2.png)
 ![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce/master/screenshots2/admin3.png)
 ![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce/master/screenshots2/admin4.png)
