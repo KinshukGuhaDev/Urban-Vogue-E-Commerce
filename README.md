@@ -48,23 +48,23 @@
 
 
 
-![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce-PHP/master/screenshots2/userregister.png)
-![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce-PHP/master/screenshots2/userlogin.png)
-![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce-PHP/master/screenshots2/homepage1.png)
-![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce-PHP/master/screenshots2/homepage2.png)
-![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce-PHP/master/screenshots2/homepage3.png)
-![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce-PHP/master/screenshots2/products1.png)
-![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce-PHP/master/screenshots2/product.png)
-![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce-PHP/master/screenshots2/wishlist.png)
-![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce-PHP/master/screenshots2/editcart.png)
-![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce-PHP/master/screenshots2/invoice1.png)
-![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce-PHP/master/screenshots2/razorpay1.png)
-![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce-PHP/master/screenshots2/razorpay2.png)
-![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce-PHP/master/screenshots2/razorpay3.png)
-![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce-PHP/master/screenshots2/payconfirm.png)
-![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce-PHP/master/screenshots2/mail.png)
-![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce-PHP/master/screenshots2/payinvoice.png)
-![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce-PHP/master/screenshots2/myorder.png)
+![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce/master/screenshots2/userregister.png)
+![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce/master/screenshots2/userlogin.png)
+![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce/master/screenshots2/homepage1.png)
+![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce/master/screenshots2/homepage2.png)
+![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce/master/screenshots2/homepage3.png)
+![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce/master/screenshots2/products1.png)
+![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce/master/screenshots2/product.png)
+![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce/master/screenshots2/wishlist.png)
+![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce/master/screenshots2/editcart.png)
+![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce/master/screenshots2/invoice1.png)
+![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce/master/screenshots2/razorpay1.png)
+![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce/master/screenshots2/razorpay2.png)
+![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce/master/screenshots2/razorpay3.png)
+![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce/master/screenshots2/payconfirm.png)
+![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce/master/screenshots2/mail.png)
+![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce/master/screenshots2/payinvoice.png)
+![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce/master/screenshots2/myorder.png)
 
 
 
@@ -76,14 +76,14 @@
 
 
 
-![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce-PHP/master/screenshots2/adminlogin.png)
-![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce-PHP/master/screenshots2/admin1.png)
-![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce-PHP/master/screenshots2/admin2.png)
-![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce-PHP/master/screenshots2/admin3.png)
-![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce-PHP/master/screenshots2/admin4.png)
-![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce-PHP/master/screenshots2/admin5.png)
-![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce-PHP/master/screenshots2/admin6.png)
-![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce-PHP/master/screenshots2/adminorder.png)
+![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce/master/screenshots2/adminlogin.png)
+![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce/master/screenshots2/admin1.png)
+![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce/master/screenshots2/admin2.png)
+![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce/master/screenshots2/admin3.png)
+![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce/master/screenshots2/admin4.png)
+![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce/master/screenshots2/admin5.png)
+![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce/master/screenshots2/admin6.png)
+![Image of adduser](https://raw.githubusercontent.com/KinshukGuhaDev/Urban-Vogue-E-Commerce/master/screenshots2/adminorder.png)
 
 
 
